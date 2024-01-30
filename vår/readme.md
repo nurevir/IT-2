@@ -19,3 +19,4 @@
 | 15-18  | Større oppgaver og tentamen  |           |
 | 23-24  | Forberedelse til skriftlig   |           |
 
+for bruker vi når vi skal gå gjennom en ting
